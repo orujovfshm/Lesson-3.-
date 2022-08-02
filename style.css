@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url(../img/bg-masthead.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 15rem;
+    font-size: 2.5rem;   
+}
+/* div h2 */
+.dh2 {
+    font-style: italic;
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
+/* button 1 */
+.btn1{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #1D809F;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 2rem 3rem;
+}
+/*secon div*/
+.second{
+    text-align: center;
+    padding: 10rem;
+    background-color: #fff;
+    
+}
+/*second div h2*/
+.dsh2{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+/*second div h3*/
+.dsh3{
+    font-weight: 100;
+    opacity: 0.7;
+    margin-bottom: 5rem;
+}
+.offerbtn{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 2rem 3rem;
+}
+/*third div*/
+.third{
+    background-size: cover;
+    text-align: center;
+    padding: 16rem;
+    background-image: url(../img/bg-callout.jpg);
+}
+/* third div h2*/
+.dthh2{
+    font-size: 4rem;
+    margin-bottom: 5rem;
+}
+/*third div button*/
+.dthbtn{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #1D809F;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 2rem 3rem;
+}
+/*foutrh div*/
+.fourth{
+    text-align: center;
+    padding: 8rem;
+    background-color: #1D809F;
+}
+/*foutrh div h2*/
+.dfh2{
+    color: #fff;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+
+}
+.dfbtn1{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #000;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 2rem 3rem;
+}
+.dfbtn2{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #040404;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 2rem 3rem;
+}
+
